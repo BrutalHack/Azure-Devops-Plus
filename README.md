@@ -13,4 +13,4 @@ Greasemonkey script to enhance the UX of Azure DevOps
 
 
 ### Width Fix for Wiki Page References
-<img src="https://user-images.githubusercontent.com/2341890/110236875-b8304780-7f38-11eb-84c6-4aa13e2dabd5.jpg" width="480">
+<img src="https://user-images.githubusercontent.com/2341890/110236889-deee7e00-7f38-11eb-9059-f09d88d1bf90.jpg" width="600">
