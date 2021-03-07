@@ -7,8 +7,9 @@ Greasemonkey script to enhance the UX of Azure DevOps.
 
 ## Installation
 1. Create a new user script in Greasemonkey/Tampermonkey
-
-<script src="http://gist-it.appspot.com/http://github.com/BrutalHack/Azure-Devops-Plus/raw/main/azure-devops-plus.js"></script>
+2. Copy [the code from here](azure-devops-plus.js) as your new user script
+3. Save the script ("File -> Save" in Tampermonkey)
+4. Enjoy a slightly better Azure DevOps experience :)
 
 ## Features
 
